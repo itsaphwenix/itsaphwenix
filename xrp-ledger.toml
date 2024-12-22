@@ -1,7 +1,21 @@
 # xrp-ledger.toml
+[[ISSUERS]]
+address = "rMxbtsVXPaNJK1iG6hwK6sNW5VaZSUy3Ab"
+name = "PHWENIX"
 
-[[CURRENCIES]]
-code = "PHWENIX"
+[[TOKENS]]
 issuer = "rMxbtsVXPaNJK1iG6hwK6sNW5VaZSUy3Ab"
+currency = "PHWENIX"
+code = "PHWENIX"
 name = "itsaphwenix"
-icon = "https://itsaphwenix.com/icon"
+desc = "PHWENIX is more than a meme. It is art and a symbol of the XRP community."
+icon = "https://assets.zyrosite.com/AwvDZwkokOcGpJBZ/face-half-blur-cropped-A85Ea1gXj3IMrEJE.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://itsaphwenix.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://x.com/itsaphwenix"
+type = "socialmedia"
