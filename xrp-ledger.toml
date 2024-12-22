@@ -9,7 +9,7 @@ currency = "PHWENIX"
 code = "PHWENIX"
 name = "itsaphwenix"
 desc = "PHWENIX is more than a meme. It is art and a symbol of the XRP community."
-icon = "https://assets.zyrosite.com/AwvDZwkokOcGpJBZ/face-half-blur-cropped-A85Ea1gXj3IMrEJE.png"
+icon = "https://itsaphwenix.com/wp-content/uploads/2024/12/phwenix_face.png"
 
 [[TOKENS.WEBLINKS]]
 url = "https://itsaphwenix.com"
