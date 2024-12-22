@@ -1,14 +1,19 @@
 # xrp-ledger.toml
+title = "XRP Ledger Configuration for PHWENIX"
+description = "Configuration file for PHWENIX token on the XRP Ledger."
+
 [[ISSUERS]]
 address = "rMxbtsVXPaNJK1iG6hwK6sNW5VaZSUy3Ab"
 name = "PHWENIX"
+contact = "itsaphwenix@gmail.com"
+website = "https://itsaphwenix.com"
 
 [[TOKENS]]
 issuer = "rMxbtsVXPaNJK1iG6hwK6sNW5VaZSUy3Ab"
 currency = "PHWENIX"
 code = "PHWENIX"
 name = "itsaphwenix"
-desc = "PHWENIX is more than a meme. It is art and a symbol of the XRP community."
+description = "PHWENIX is more than a meme. It is art and a symbol of the XRP community."
 icon = "https://itsaphwenix.com/wp-content/uploads/2024/12/phwenix_face.png"
 
 [[TOKENS.WEBLINKS]]
